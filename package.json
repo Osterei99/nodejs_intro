@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_intro",
+  "version": "1.0.0",
+  "description": "Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osterei99/nodejs_intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osterei99/nodejs_intro/issues"
+  },
+  "homepage": "https://github.com/Osterei99/nodejs_intro#readme",
+  "keywords": []
+}
